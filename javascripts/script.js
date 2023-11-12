@@ -71,7 +71,7 @@ var hiatusList = [
   ['The Engine','The Black Market Car','Aug 9 2019','Jan 6 2020',150,''],
   ['The Number Car','The Musical Car','Jan 10 2020','Aug 13 2020',216,'Show moved to HBO Max starting with Book 3'],
   ['The New Apex','The Twin Tapes','Aug 27 2020','Apr 15 2021',231,''],
-  ['The Train to Nowhere','???','Apr 15 2021','???',,'']
+  ['The Train to Nowhere','','Apr 15 2021','',,'']
 ];
 
 //makes an HTML table from the array
